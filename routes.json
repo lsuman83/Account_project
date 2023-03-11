@@ -1,0 +1,8 @@
+{
+    "/accounts/checking": "/accounts/1/checking",
+    "/accounts/savings": "/accounts/2/savings",
+    "/accounts/savings/:id": "/savings/:id",
+    "/accounts/checking/:id": "/checking/:id",
+    "/signup": "/users",
+    "/login": "/users"
+}
